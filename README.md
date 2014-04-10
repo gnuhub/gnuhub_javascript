@@ -10,3 +10,5 @@ gnuhub_javascript
 | [Chrome源码剖析](http://www.cnblogs.com/duguguiyu/archive/2008/10/02/1303095.html) | |
 | [JS引擎V8 Parser源码分析](http://www.open-open.com/doc/view/3059953870bb40deabcc83b68e3229bb) | |
 | [Chrome V8](https://developers.google.com/v8/intro) | |
+| javascript权威指南 | |
+| javascript语言精粹 | |
